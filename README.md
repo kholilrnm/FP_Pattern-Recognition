@@ -33,10 +33,16 @@ Proyek akhir kuliah - Realtime Object Pattern Detection
 </p>
 
 ## How to Run
-1. open cmd or bash in this folder project
-2. pip install -r requirements.txt
-3. python real_time_object_detection.py --prototxt MobileNetSSD_deploy.prototxt.txt --model MobileNetSSD_deploy.caffemodel
-
+1. Step one
+Go to bash, cmd or cli. command this
+```bash
+pip install -r requirements.txt
+```
+2. Step two
+and then command this
+```bash
+python real_time_object_detection.py --prototxt MobileNetSSD_deploy.prototxt.txt --model MobileNetSSD_deploy.caffemodel
+```
 ## Contributors
 - Kholilul Rachman N.M (17081010055) 
 - Sandy Rizkyando (17081010065)
