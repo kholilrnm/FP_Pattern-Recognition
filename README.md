@@ -13,7 +13,7 @@ Proyek akhir kuliah - Realtime Object Pattern Detection
 ## Tools / Library
 | Tools yang digunakan |
 | --- |
-| Python |
+| Python3 |
 | opencv-python |
 | imutils |
 | numpy |
