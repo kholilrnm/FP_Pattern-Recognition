@@ -44,5 +44,5 @@ and then command this
 python real_time_object_detection.py --prototxt MobileNetSSD_deploy.prototxt.txt --model MobileNetSSD_deploy.caffemodel
 ```
 ## Contributors
-- Kholilul Rachman N.M (17081010055) 
-- Sandy Rizkyando (17081010065)
+- <a href="https://github.com/kholilboy">Kholilul Rachman N.M (17081010055)</a>
+- <a href="https://github.com/SandyRizkyando">Sandy Rizkyando (17081010065)</a>
