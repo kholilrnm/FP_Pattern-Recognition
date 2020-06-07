@@ -21,44 +21,21 @@ Proyek akhir kuliah - Realtime Object Pattern Detection
 ## Demo 
 <br>
 <p align="center">
-        <img src="/images/web1.jpg" width="414" height="238">
+        <img src="/images/bottle_fix.jpg" width="414" height="238">
 </p>
 <br>
 <p align="center">
-        <img src="/images/web2.jpg" width="414" height="238">
+        <img src="/images/person_fix_hp.jpg" width="414" height="238">
 </p>
 <br>
 <p align="center">
-        <img src="/images/web3.jpg" width="414" height="238">
+        <img src="/images/kucing.jpg" width="414" height="238">
 </p>
-<br>
-<p align="center">
-        <img src="/images/web4.jpg" width="414" height="238">
-</p>
-<br>
-<p align="center">
-        <img src="/images/web5.jpg" width="414" height="238">
-</p>
-<br>
-<p align="center">
-        <img src="/images/web6.jpg" width="414" height="238">
-</p>
-<br>
-<p align="center">
-        <img src="/images/web7.jpg" width="414" height="238">
-</p>
-<br>
-<p align="center">
-        <img src="/images/web8.jpg" width="414" height="238">
-</p>
-<br>
-<p align="center">
-        <img src="/images/web9.jpg" width="414" height="238">
-</p>
-<br>
-<p align="center">
-        <img src="/images/web10.jpg" width="414" height="238">
-</p>
+
+## How to Run
+1. open cmd or bash in this folder project
+2. pip install -r requirements.txt
+3. python real_time_object_detection.py --prototxt MobileNetSSD_deploy.prototxt.txt --model MobileNetSSD_deploy.caffemodel
 
 ## Contributors
 - Kholilul Rachman N.M (17081010055) 
